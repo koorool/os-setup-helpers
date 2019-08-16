@@ -24,6 +24,7 @@ choco install curl -fy
 choco install cmder -fy
 choco install far -fy
 choco install sharex -fy
+choco install Keypirinha -fy
 
 ### Developer tools
 choco install git -fy
